@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/activiti-demo1/pom.xml" />
         <option value="$PROJECT_DIR$/activiti-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/activiti-service/pom.xml" />
       </list>
     </option>
   </component>
